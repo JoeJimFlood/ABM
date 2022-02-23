@@ -1,0 +1,49 @@
+PERTYPE,TOURPURP,survey_freq,model_freq
+1: Full-Time Worker,4,115232.4984,234273
+1: Full-Time Worker,5,85520.02418,72439
+1: Full-Time Worker,6,72314.20524,79196
+1: Full-Time Worker,7,73326.66717,9632
+1: Full-Time Worker,8,23507.41901,25737
+1: Full-Time Worker,9,109923.2475,70467
+2: Part-Time Worker,4,43133.59131,155166
+2: Part-Time Worker,5,27974.88489,44658
+2: Part-Time Worker,6,25142.43693,58445
+2: Part-Time Worker,7,15003.23133,7200
+2: Part-Time Worker,8,9127.748698,17829
+2: Part-Time Worker,9,37697.51336,47896
+3: University Student,4,38738.48377,60080
+3: University Student,5,21681.41534,20748
+3: University Student,6,25165.06659,14041
+3: University Student,7,21266.01521,1541
+3: University Student,8,10703.19787,9568
+3: University Student,9,39104.08257,15728
+4: Non-Worker,4,109093.8012,381107
+4: Non-Worker,5,70155.52958,98277
+4: Non-Worker,6,51806.65623,100349
+4: Non-Worker,7,31128.82147,12890
+4: Non-Worker,8,7254.542108,20124
+4: Non-Worker,9,78088.69599,42986
+5: Retiree,4,18098.44091,70043
+5: Retiree,5,64440.87208,86497
+5: Retiree,6,48848.17333,97421
+5: Retiree,7,18301.67269,17917
+5: Retiree,8,2758.997125,15757
+5: Retiree,9,67612.40083,86584
+6: Driving Aged Student,4,6433.84122,1973
+6: Driving Aged Student,5,1502.365384,978
+6: Driving Aged Student,6,6600.71429,1894
+6: Driving Aged Student,7,5287.953018,257
+6: Driving Aged Student,8,1756.790681,5833
+6: Driving Aged Student,9,6565.024498,11472
+7: Non-Driving Aged Student,4,55211.69192,39345
+7: Non-Driving Aged Student,5,15150.5865,3291
+7: Non-Driving Aged Student,6,5196.829933,17945
+7: Non-Driving Aged Student,7,8958.63366,917
+7: Non-Driving Aged Student,8,2714.55075,18632
+7: Non-Driving Aged Student,9,28919.65351,49853
+8: Child To Young for School,4,37952.04477,110764
+8: Child To Young for School,5,15914.52048,913
+8: Child To Young for School,6,8216.65986,14396
+8: Child To Young for School,7,7281.17435,2196
+8: Child To Young for School,8,1742.57529,8601
+8: Child To Young for School,9,18227.93998,8053

@@ -1,0 +1,22 @@
+jtf,alt_name,freq
+1,No Joint Tours,1055057
+2,1 Shopping,27367
+3,1 Maintenance,31144
+4,1 Eating Out,15123
+5,1 Visiting,10795
+6,1 Other Discretionary,29710
+7,2 Shopping,1792
+8,1 Shopping / 1 Maintenance,1465
+9,1 Shopping / 1 Eating Out,282
+10,1 Shopping / 1 Visiting,297
+11,1 Shopping / 1 Other Discretionary,1567
+12,2 Maintenance,6309
+13,1 Maintenance / 1 Eating Out,1061
+14,1 Maintenance / 1 Visiting,1660
+15,1 Maintenance / 1 Other Discretionary,3521
+16,2 Eating Out,1406
+17,1 Eating Out / 1 Visiting,2284
+18,1 Eating Out / 1 Other Discretionary,3789
+19,2 Visiting,195
+20,1 Visiting / 1 Other Discretionary,1026
+21,2 Other Discretionary,1276

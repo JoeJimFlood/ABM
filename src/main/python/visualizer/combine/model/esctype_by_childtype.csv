@@ -1,0 +1,10 @@
+esc_type,child_type,freq_out,freq_inb
+No Escort,6: Driving Aged Student,85240,84668
+No Escort,7: Non-Driving Aged Student,307405,305050
+No Escort,8: Child To Young for School,36070,39001
+Ride Share,6: Driving Aged Student,312,149
+Ride Share,7: Non-Driving Aged Student,39635,28627
+Ride Share,8: Child To Young for School,17574,14162
+Pure Escort,6: Driving Aged Student,112,847
+Pure Escort,7: Non-Driving Aged Student,102885,116248
+Pure Escort,8: Child To Young for School,5960,6441

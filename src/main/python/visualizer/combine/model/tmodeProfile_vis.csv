@@ -1,0 +1,198 @@
+OwnershipCategory,tour_mode,purpose,freq
+0: No Vehicles,01: SOV,1: Work,9298
+0: No Vehicles,01: SOV,2: University,1
+0: No Vehicles,01: SOV,4: Escort,4400
+0: No Vehicles,01: SOV,5: Individual Maintenance,7668
+0: No Vehicles,01: SOV,6: Individual Discretionary,631
+0: No Vehicles,02: Shared Ride 2,1: Work,13853
+0: No Vehicles,02: Shared Ride 2,2: University,1737
+0: No Vehicles,02: Shared Ride 2,3: School,5706
+0: No Vehicles,02: Shared Ride 2,4: Escort,7281
+0: No Vehicles,02: Shared Ride 2,5: Individual Maintenance,5187
+0: No Vehicles,02: Shared Ride 2,6: Individual Discretionary,5192
+0: No Vehicles,02: Shared Ride 2,9: Work-based,709
+0: No Vehicles,03: Shared Ride 3+,1: Work,166
+0: No Vehicles,03: Shared Ride 3+,2: University,149
+0: No Vehicles,03: Shared Ride 3+,3: School,459
+0: No Vehicles,03: Shared Ride 3+,4: Escort,2635
+0: No Vehicles,03: Shared Ride 3+,5: Individual Maintenance,1185
+0: No Vehicles,03: Shared Ride 3+,6: Individual Discretionary,1129
+0: No Vehicles,03: Shared Ride 3+,9: Work-based,1
+0: No Vehicles,04: Walk,1: Work,9500
+0: No Vehicles,04: Walk,3: School,6162
+0: No Vehicles,04: Walk,4: Escort,4952
+0: No Vehicles,04: Walk,5: Individual Maintenance,16207
+0: No Vehicles,04: Walk,6: Individual Discretionary,9204
+0: No Vehicles,04: Walk,9: Work-based,1859
+0: No Vehicles,05: Bike,1: Work,617
+0: No Vehicles,05: Bike,2: University,287
+0: No Vehicles,05: Bike,3: School,268
+0: No Vehicles,05: Bike,4: Escort,192
+0: No Vehicles,05: Bike,5: Individual Maintenance,1144
+0: No Vehicles,05: Bike,6: Individual Discretionary,1087
+0: No Vehicles,05: Bike,9: Work-based,449
+0: No Vehicles,06: Walk to Transit,1: Work,10328
+0: No Vehicles,06: Walk to Transit,2: University,3862
+0: No Vehicles,06: Walk to Transit,3: School,1138
+0: No Vehicles,06: Walk to Transit,4: Escort,37
+0: No Vehicles,06: Walk to Transit,5: Individual Maintenance,5848
+0: No Vehicles,06: Walk to Transit,6: Individual Discretionary,4210
+0: No Vehicles,06: Walk to Transit,9: Work-based,201
+0: No Vehicles,08: KNR to Transit,1: Work,1673
+0: No Vehicles,08: KNR to Transit,2: University,388
+0: No Vehicles,08: KNR to Transit,4: Escort,1
+0: No Vehicles,08: KNR to Transit,5: Individual Maintenance,457
+0: No Vehicles,08: KNR to Transit,6: Individual Discretionary,1121
+0: No Vehicles,10: Taxi,1: Work,44
+0: No Vehicles,10: Taxi,4: Escort,329
+0: No Vehicles,10: Taxi,5: Individual Maintenance,825
+0: No Vehicles,10: Taxi,6: Individual Discretionary,42
+0: No Vehicles,11: TNC Single,1: Work,91
+0: No Vehicles,11: TNC Single,4: Escort,275
+0: No Vehicles,11: TNC Single,5: Individual Maintenance,649
+0: No Vehicles,11: TNC Single,6: Individual Discretionary,28
+0: No Vehicles,12: TNC Shared,1: Work,727
+0: No Vehicles,12: TNC Shared,4: Escort,2041
+0: No Vehicles,12: TNC Shared,5: Individual Maintenance,3694
+0: No Vehicles,12: TNC Shared,6: Individual Discretionary,193
+0: No Vehicles,13: School Bus,3: School,11585
+1: 1+ Veh/Adults > Veh,01: SOV,1: Work,185073
+1: 1+ Veh/Adults > Veh,01: SOV,2: University,10341
+1: 1+ Veh/Adults > Veh,01: SOV,3: School,2235
+1: 1+ Veh/Adults > Veh,01: SOV,4: Escort,61992
+1: 1+ Veh/Adults > Veh,01: SOV,5: Individual Maintenance,50296
+1: 1+ Veh/Adults > Veh,01: SOV,6: Individual Discretionary,29773
+1: 1+ Veh/Adults > Veh,01: SOV,9: Work-based,11402
+1: 1+ Veh/Adults > Veh,02: Shared Ride 2,1: Work,67365
+1: 1+ Veh/Adults > Veh,02: Shared Ride 2,2: University,8497
+1: 1+ Veh/Adults > Veh,02: Shared Ride 2,3: School,44025
+1: 1+ Veh/Adults > Veh,02: Shared Ride 2,4: Escort,116347
+1: 1+ Veh/Adults > Veh,02: Shared Ride 2,5: Individual Maintenance,42937
+1: 1+ Veh/Adults > Veh,02: Shared Ride 2,6: Individual Discretionary,36437
+1: 1+ Veh/Adults > Veh,02: Shared Ride 2,9: Work-based,5954
+1: 1+ Veh/Adults > Veh,03: Shared Ride 3+,1: Work,13184
+1: 1+ Veh/Adults > Veh,03: Shared Ride 3+,2: University,4568
+1: 1+ Veh/Adults > Veh,03: Shared Ride 3+,3: School,33550
+1: 1+ Veh/Adults > Veh,03: Shared Ride 3+,4: Escort,111091
+1: 1+ Veh/Adults > Veh,03: Shared Ride 3+,5: Individual Maintenance,33165
+1: 1+ Veh/Adults > Veh,03: Shared Ride 3+,6: Individual Discretionary,22191
+1: 1+ Veh/Adults > Veh,03: Shared Ride 3+,9: Work-based,313
+1: 1+ Veh/Adults > Veh,04: Walk,1: Work,4163
+1: 1+ Veh/Adults > Veh,04: Walk,2: University,2899
+1: 1+ Veh/Adults > Veh,04: Walk,3: School,9083
+1: 1+ Veh/Adults > Veh,04: Walk,4: Escort,19827
+1: 1+ Veh/Adults > Veh,04: Walk,5: Individual Maintenance,27537
+1: 1+ Veh/Adults > Veh,04: Walk,6: Individual Discretionary,24886
+1: 1+ Veh/Adults > Veh,04: Walk,9: Work-based,4052
+1: 1+ Veh/Adults > Veh,05: Bike,1: Work,8900
+1: 1+ Veh/Adults > Veh,05: Bike,2: University,1332
+1: 1+ Veh/Adults > Veh,05: Bike,3: School,783
+1: 1+ Veh/Adults > Veh,05: Bike,4: Escort,114
+1: 1+ Veh/Adults > Veh,05: Bike,5: Individual Maintenance,251
+1: 1+ Veh/Adults > Veh,05: Bike,6: Individual Discretionary,2863
+1: 1+ Veh/Adults > Veh,06: Walk to Transit,1: Work,18951
+1: 1+ Veh/Adults > Veh,06: Walk to Transit,2: University,10032
+1: 1+ Veh/Adults > Veh,06: Walk to Transit,3: School,3586
+1: 1+ Veh/Adults > Veh,06: Walk to Transit,4: Escort,32
+1: 1+ Veh/Adults > Veh,06: Walk to Transit,5: Individual Maintenance,4746
+1: 1+ Veh/Adults > Veh,06: Walk to Transit,6: Individual Discretionary,4104
+1: 1+ Veh/Adults > Veh,06: Walk to Transit,9: Work-based,290
+1: 1+ Veh/Adults > Veh,07: PNR to Transit,1: Work,1346
+1: 1+ Veh/Adults > Veh,07: PNR to Transit,2: University,877
+1: 1+ Veh/Adults > Veh,07: PNR to Transit,3: School,1
+1: 1+ Veh/Adults > Veh,07: PNR to Transit,4: Escort,2
+1: 1+ Veh/Adults > Veh,07: PNR to Transit,5: Individual Maintenance,237
+1: 1+ Veh/Adults > Veh,07: PNR to Transit,6: Individual Discretionary,153
+1: 1+ Veh/Adults > Veh,08: KNR to Transit,1: Work,4887
+1: 1+ Veh/Adults > Veh,08: KNR to Transit,2: University,1610
+1: 1+ Veh/Adults > Veh,08: KNR to Transit,3: School,635
+1: 1+ Veh/Adults > Veh,08: KNR to Transit,4: Escort,5
+1: 1+ Veh/Adults > Veh,08: KNR to Transit,5: Individual Maintenance,837
+1: 1+ Veh/Adults > Veh,08: KNR to Transit,6: Individual Discretionary,2061
+1: 1+ Veh/Adults > Veh,10: Taxi,1: Work,129
+1: 1+ Veh/Adults > Veh,10: Taxi,4: Escort,28
+1: 1+ Veh/Adults > Veh,10: Taxi,5: Individual Maintenance,22
+1: 1+ Veh/Adults > Veh,10: Taxi,6: Individual Discretionary,268
+1: 1+ Veh/Adults > Veh,10: Taxi,9: Work-based,55
+1: 1+ Veh/Adults > Veh,11: TNC Single,1: Work,256
+1: 1+ Veh/Adults > Veh,11: TNC Single,4: Escort,19
+1: 1+ Veh/Adults > Veh,11: TNC Single,5: Individual Maintenance,17
+1: 1+ Veh/Adults > Veh,11: TNC Single,6: Individual Discretionary,249
+1: 1+ Veh/Adults > Veh,11: TNC Single,9: Work-based,36
+1: 1+ Veh/Adults > Veh,12: TNC Shared,1: Work,1376
+1: 1+ Veh/Adults > Veh,12: TNC Shared,4: Escort,75
+1: 1+ Veh/Adults > Veh,12: TNC Shared,5: Individual Maintenance,50
+1: 1+ Veh/Adults > Veh,12: TNC Shared,6: Individual Discretionary,1040
+1: 1+ Veh/Adults > Veh,12: TNC Shared,9: Work-based,107
+1: 1+ Veh/Adults > Veh,13: School Bus,3: School,24781
+2: Vehicles >= Adults,01: SOV,1: Work,598567
+2: Vehicles >= Adults,01: SOV,2: University,39521
+2: Vehicles >= Adults,01: SOV,3: School,10224
+2: Vehicles >= Adults,01: SOV,4: Escort,169476
+2: Vehicles >= Adults,01: SOV,5: Individual Maintenance,235043
+2: Vehicles >= Adults,01: SOV,6: Individual Discretionary,146845
+2: Vehicles >= Adults,01: SOV,9: Work-based,48651
+2: Vehicles >= Adults,02: Shared Ride 2,1: Work,127345
+2: Vehicles >= Adults,02: Shared Ride 2,2: University,10194
+2: Vehicles >= Adults,02: Shared Ride 2,3: School,175080
+2: Vehicles >= Adults,02: Shared Ride 2,4: Escort,238827
+2: Vehicles >= Adults,02: Shared Ride 2,5: Individual Maintenance,93029
+2: Vehicles >= Adults,02: Shared Ride 2,6: Individual Discretionary,73330
+2: Vehicles >= Adults,02: Shared Ride 2,9: Work-based,11800
+2: Vehicles >= Adults,03: Shared Ride 3+,1: Work,76634
+2: Vehicles >= Adults,03: Shared Ride 3+,2: University,7966
+2: Vehicles >= Adults,03: Shared Ride 3+,3: School,216246
+2: Vehicles >= Adults,03: Shared Ride 3+,4: Escort,298471
+2: Vehicles >= Adults,03: Shared Ride 3+,5: Individual Maintenance,144320
+2: Vehicles >= Adults,03: Shared Ride 3+,6: Individual Discretionary,82377
+2: Vehicles >= Adults,03: Shared Ride 3+,9: Work-based,5975
+2: Vehicles >= Adults,04: Walk,1: Work,5757
+2: Vehicles >= Adults,04: Walk,2: University,2024
+2: Vehicles >= Adults,04: Walk,3: School,9344
+2: Vehicles >= Adults,04: Walk,4: Escort,13549
+2: Vehicles >= Adults,04: Walk,5: Individual Maintenance,33107
+2: Vehicles >= Adults,04: Walk,6: Individual Discretionary,34530
+2: Vehicles >= Adults,04: Walk,9: Work-based,22628
+2: Vehicles >= Adults,05: Bike,1: Work,10778
+2: Vehicles >= Adults,05: Bike,3: School,5789
+2: Vehicles >= Adults,05: Bike,4: Escort,331
+2: Vehicles >= Adults,05: Bike,5: Individual Maintenance,1207
+2: Vehicles >= Adults,05: Bike,6: Individual Discretionary,6956
+2: Vehicles >= Adults,05: Bike,9: Work-based,563
+2: Vehicles >= Adults,06: Walk to Transit,1: Work,3747
+2: Vehicles >= Adults,06: Walk to Transit,2: University,1693
+2: Vehicles >= Adults,06: Walk to Transit,3: School,557
+2: Vehicles >= Adults,06: Walk to Transit,4: Escort,3
+2: Vehicles >= Adults,06: Walk to Transit,5: Individual Maintenance,944
+2: Vehicles >= Adults,06: Walk to Transit,6: Individual Discretionary,1127
+2: Vehicles >= Adults,06: Walk to Transit,9: Work-based,86
+2: Vehicles >= Adults,07: PNR to Transit,1: Work,2736
+2: Vehicles >= Adults,07: PNR to Transit,2: University,978
+2: Vehicles >= Adults,07: PNR to Transit,6: Individual Discretionary,188
+2: Vehicles >= Adults,08: KNR to Transit,1: Work,1384
+2: Vehicles >= Adults,08: KNR to Transit,2: University,727
+2: Vehicles >= Adults,08: KNR to Transit,3: School,854
+2: Vehicles >= Adults,08: KNR to Transit,4: Escort,1
+2: Vehicles >= Adults,08: KNR to Transit,5: Individual Maintenance,394
+2: Vehicles >= Adults,08: KNR to Transit,6: Individual Discretionary,383
+2: Vehicles >= Adults,09: TNC to Transit,1: Work,3
+2: Vehicles >= Adults,09: TNC to Transit,6: Individual Discretionary,1553
+2: Vehicles >= Adults,10: Taxi,1: Work,51
+2: Vehicles >= Adults,10: Taxi,2: University,18
+2: Vehicles >= Adults,10: Taxi,4: Escort,80
+2: Vehicles >= Adults,10: Taxi,5: Individual Maintenance,86
+2: Vehicles >= Adults,10: Taxi,6: Individual Discretionary,2497
+2: Vehicles >= Adults,10: Taxi,9: Work-based,106
+2: Vehicles >= Adults,11: TNC Single,1: Work,101
+2: Vehicles >= Adults,11: TNC Single,2: University,19
+2: Vehicles >= Adults,11: TNC Single,4: Escort,95
+2: Vehicles >= Adults,11: TNC Single,5: Individual Maintenance,100
+2: Vehicles >= Adults,11: TNC Single,6: Individual Discretionary,2498
+2: Vehicles >= Adults,11: TNC Single,9: Work-based,114
+2: Vehicles >= Adults,12: TNC Shared,1: Work,513
+2: Vehicles >= Adults,12: TNC Shared,2: University,103
+2: Vehicles >= Adults,12: TNC Shared,4: Escort,243
+2: Vehicles >= Adults,12: TNC Shared,5: Individual Maintenance,299
+2: Vehicles >= Adults,12: TNC Shared,6: Individual Discretionary,8524
+2: Vehicles >= Adults,12: TNC Shared,9: Work-based,225
+2: Vehicles >= Adults,13: School Bus,3: School,33102

@@ -7,7 +7,7 @@ import yaml
 import src.pipeline as pipeline
 
 # Settings file path
-SETTINGS = 'config/settings.yaml'
+SETTINGS = 'data_pipeliner/config/settings.yaml'
 
 
 def load_yaml(fp):

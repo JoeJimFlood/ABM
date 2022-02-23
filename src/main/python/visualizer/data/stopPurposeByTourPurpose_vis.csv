@@ -1,0 +1,101 @@
+stop_purpose,tour_purpose,survey_freq,model_freq
+01: Work,1: Work,81416.29522,0.0
+02: University,1: Work,17845.3085,0.0
+03: School,1: Work,1910.919414,0.0
+04: Escort,1: Work,233640.011,354446.0
+05: Shopping,1: Work,188331.9087,225505.0
+06: Maintenance,1: Work,109245.987,98752.0
+07: Eating,1: Work,170315.3432,354269.0
+08: Visiting,1: Work,28006.58965,142142.0
+09: Other Discretionary,1: Work,99562.30595,71415.0
+10: Work-Related,1: Work,365848.6251,54026.0
+01: Work,2: University,9112.065172,0.0
+02: University,2: University,92423.74735,0.0
+03: School,2: University,0.0,0.0
+04: Escort,2: University,37905.22705,29851.0
+05: Shopping,2: University,18941.94397,15250.0
+06: Maintenance,2: University,12422.79929,9189.0
+07: Eating,2: University,16625.43683,12399.0
+08: Visiting,2: University,6886.106327,5394.0
+09: Other Discretionary,2: University,16203.09553,13278.0
+10: Work-Related,2: University,4267.16728,0.0
+01: Work,3: School,171.9048989,0.0
+02: University,3: School,0.0,0.0
+03: School,3: School,125332.6483,0.0
+04: Escort,3: School,98929.93354,265071.0
+05: Shopping,3: School,25484.11958,49708.0
+06: Maintenance,3: School,16045.07357,28422.0
+07: Eating,3: School,24387.22011,48400.0
+08: Visiting,3: School,5188.98499,11048.0
+09: Other Discretionary,3: School,38202.34144,79217.0
+10: Work-Related,3: School,0.0,0.0
+01: Work,4: Escort,4644.268318,0.0
+02: University,4: Escort,719.5988043,0.0
+03: School,4: Escort,10178.94927,0.0
+04: Escort,4: Escort,131131.2966,405996.0
+05: Shopping,4: Escort,54447.42695,157523.0
+06: Maintenance,4: Escort,30218.40035,87576.0
+07: Eating,4: Escort,32411.4194,86704.0
+08: Visiting,4: Escort,13710.90795,31893.0
+09: Other Discretionary,4: Escort,7347.525997,20271.0
+10: Work-Related,4: Escort,4252.776792,0.0
+01: Work,5: Individual Maintenance,5264.369057,0.0
+02: University,5: Individual Maintenance,3402.918858,0.0
+03: School,5: Individual Maintenance,2255.18446,0.0
+04: Escort,5: Individual Maintenance,83517.70807,93111.0
+05: Shopping,5: Individual Maintenance,198593.1365,293818.0
+06: Maintenance,5: Individual Maintenance,114633.1409,179295.0
+07: Eating,5: Individual Maintenance,86678.17466,125273.0
+08: Visiting,5: Individual Maintenance,23605.63528,32812.0
+09: Other Discretionary,5: Individual Maintenance,30061.75853,38666.0
+10: Work-Related,5: Individual Maintenance,2893.318645,0.0
+01: Work,6: Individual Discretionary,10528.30037,0.0
+02: University,6: Individual Discretionary,9778.340114,0.0
+03: School,6: Individual Discretionary,8053.011608,0.0
+04: Escort,6: Individual Discretionary,93985.77184,85227.0
+05: Shopping,6: Individual Discretionary,128905.3916,128381.0
+06: Maintenance,6: Individual Discretionary,49579.48314,47562.0
+07: Eating,6: Individual Discretionary,90738.77301,79454.0
+08: Visiting,6: Individual Discretionary,39727.41988,66038.0
+09: Other Discretionary,6: Individual Discretionary,124266.367,116407.0
+10: Work-Related,6: Individual Discretionary,10706.15364,0.0
+01: Work,7: Joint Maintenance,16.449575,0.0
+02: University,7: Joint Maintenance,13.01136,0.0
+03: School,7: Joint Maintenance,0.0,0.0
+04: Escort,7: Joint Maintenance,1110.946428,14991.0
+05: Shopping,7: Joint Maintenance,17933.09376,39957.0
+06: Maintenance,7: Joint Maintenance,10799.96483,25528.0
+07: Eating,7: Joint Maintenance,9612.723585,17264.0
+08: Visiting,7: Joint Maintenance,1279.202565,4843.0
+09: Other Discretionary,7: Joint Maintenance,763.7402581,5212.0
+10: Work-Related,7: Joint Maintenance,0.0,0.0
+01: Work,8: Joint Discretionary,0.0,0.0
+02: University,8: Joint Discretionary,62.60338,0.0
+03: School,8: Joint Discretionary,0.0,0.0
+04: Escort,8: Joint Discretionary,1181.00109,13052.0
+05: Shopping,8: Joint Discretionary,16891.54617,20062.0
+06: Maintenance,8: Joint Discretionary,8042.938918,8205.0
+07: Eating,8: Joint Discretionary,6853.791763,12302.0
+08: Visiting,8: Joint Discretionary,2480.204642,8191.0
+09: Other Discretionary,8: Joint Discretionary,5650.964615,14735.0
+10: Work-Related,8: Joint Discretionary,0.0,0.0
+01: Work,9: Work-based,161013.6566,0.0
+02: University,9: Work-based,0.0,0.0
+03: School,9: Work-based,0.0,0.0
+04: Escort,9: Work-based,2319.47311,1376.0
+05: Shopping,9: Work-based,5974.209734,1449.0
+06: Maintenance,9: Work-based,3860.963182,1952.0
+07: Eating,9: Work-based,21310.84977,7973.0
+08: Visiting,9: Work-based,1673.827705,1162.0
+09: Other Discretionary,9: Work-based,476.9270317,87.0
+10: Work-Related,9: Work-based,33568.2164,16456.0
+01: Work,Total,272167.3092109,0.0
+02: University,Total,124245.52836630002,0.0
+03: School,Total,147730.713052,0.0
+04: Escort,Total,683721.368728,1263121.0
+05: Shopping,Total,655502.776964,931653.0
+06: Maintenance,Total,354848.75118,486481.0
+07: Eating,Total,458933.732328,744038.0
+08: Visiting,Total,122558.878989,303523.0
+09: Other Discretionary,Total,322535.02635179996,359288.0
+10: Work-Related,Total,421536.25785699993,70482.0

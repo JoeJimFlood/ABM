@@ -1,0 +1,401 @@
+tourdur,purpose,survey_freq,model_freq
+0.5,9: Work-based,46624,14831.0
+0.5,4: Escort,52515,321135.0
+0.5,6: Individual Discretionary,21321,10166.0
+0.5,5: Individual Maintenance,22441,55291.0
+0.5,8: Joint Discretionary,1760,1567.0
+0.5,7: Joint Maintenance,2150,6305.0
+0.5,3: School,2528,4325.0
+0.5,Total,152072,424140.0
+0.5,2: University,1951,577.0
+0.5,1: Work,778,9943.0
+1,9: Work-based,76063,44767.0
+1,4: Escort,161962,532883.0
+1,6: Individual Discretionary,70617,47911.0
+1,5: Individual Maintenance,100377,153967.0
+1,8: Joint Discretionary,7789,8072.0
+1,7: Joint Maintenance,11348,10991.0
+1,3: School,10425,3916.0
+1,Total,450100,814191.0
+1,2: University,4587,474.0
+1,1: Work,6928,11210.0
+1.5,9: Work-based,49615,30758.0
+1.5,4: Escort,62473,120884.0
+1.5,6: Individual Discretionary,51656,69567.0
+1.5,5: Individual Maintenance,88521,143613.0
+1.5,8: Joint Discretionary,12572,13103.0
+1.5,7: Joint Maintenance,12308,25040.0
+1.5,3: School,1484,3625.0
+1.5,Total,290705,419943.0
+1.5,2: University,2840,382.0
+1.5,1: Work,9233,12971.0
+2,9: Work-based,21359,9022.0
+2,4: Escort,23480,29960.0
+2,6: Individual Discretionary,73948,94648.0
+2,5: Individual Maintenance,70519,117986.0
+2,8: Joint Discretionary,11400,16130.0
+2,7: Joint Maintenance,12278,18517.0
+2,3: School,2856,3526.0
+2,Total,228476,307485.0
+2,2: University,3506,2696.0
+2,1: Work,9127,15000.0
+2.5,9: Work-based,10459,7687.0
+2.5,4: Escort,17710,12311.0
+2.5,6: Individual Discretionary,64871,76383.0
+2.5,5: Individual Maintenance,63897,76774.0
+2.5,8: Joint Discretionary,14056,12572.0
+2.5,7: Joint Maintenance,8487,11212.0
+2.5,3: School,2454,3705.0
+2.5,Total,203144,221787.0
+2.5,2: University,10808,3896.0
+2.5,1: Work,10397,17247.0
+3,9: Work-based,4450,1617.0
+3,4: Escort,13489,7463.0
+3,6: Individual Discretionary,55943,56410.0
+3,5: Individual Maintenance,46831,50240.0
+3,8: Joint Discretionary,9275,10006.0
+3,7: Joint Maintenance,5708,6721.0
+3,3: School,5071,4457.0
+3,Total,164103,160282.0
+3,2: University,9956,3913.0
+3,1: Work,13376,19455.0
+3.5,9: Work-based,2105,1539.0
+3.5,4: Escort,7939,6340.0
+3.5,6: Individual Discretionary,43761,39669.0
+3.5,5: Individual Maintenance,31321,33197.0
+3.5,8: Joint Discretionary,11126,5785.0
+3.5,7: Joint Maintenance,5972,4258.0
+3.5,3: School,2490,5127.0
+3.5,Total,131888,126103.0
+3.5,2: University,11696,8197.0
+3.5,1: Work,15475,21991.0
+4,9: Work-based,3097,1677.0
+4,4: Escort,4188,4908.0
+4,6: Individual Discretionary,26180,30729.0
+4,5: Individual Maintenance,19261,22553.0
+4,8: Joint Discretionary,2676,3993.0
+4,7: Joint Maintenance,3418,2746.0
+4,3: School,3553,5918.0
+4,Total,86896,107479.0
+4,2: University,8588,10881.0
+4,1: Work,15931,24074.0
+4.5,9: Work-based,1937,1191.0
+4.5,4: Escort,4602,3831.0
+4.5,6: Individual Discretionary,26982,23407.0
+4.5,5: Individual Maintenance,17817,14934.0
+4.5,8: Joint Discretionary,1530,2538.0
+4.5,7: Joint Maintenance,1277,1616.0
+4.5,3: School,4351,7170.0
+4.5,Total,92560,92343.0
+4.5,2: University,8693,11339.0
+4.5,1: Work,25367,26317.0
+5,9: Work-based,598,819.0
+5,4: Escort,4289,2933.0
+5,6: Individual Discretionary,22785,13784.0
+5,5: Individual Maintenance,14670,10002.0
+5,8: Joint Discretionary,3748,1368.0
+5,7: Joint Maintenance,268,1076.0
+5,3: School,8316,9271.0
+5,Total,98301,76776.0
+5,2: University,11141,9418.0
+5,1: Work,32482,28105.0
+5.5,9: Work-based,1854,572.0
+5.5,4: Escort,2068,2201.0
+5.5,6: Individual Discretionary,13109,9652.0
+5.5,5: Individual Maintenance,4933,6862.0
+5.5,8: Joint Discretionary,1148,933.0
+5.5,7: Joint Maintenance,285,686.0
+5.5,3: School,2413,11729.0
+5.5,Total,48952,69735.0
+5.5,2: University,7614,7945.0
+5.5,1: Work,15524,29155.0
+6,9: Work-based,508,373.0
+6,4: Escort,4873,1764.0
+6,6: Individual Discretionary,11757,6838.0
+6,5: Individual Maintenance,6542,4529.0
+6,8: Joint Discretionary,149,624.0
+6,7: Joint Maintenance,1851,425.0
+6,3: School,7758,16345.0
+6,Total,66461,67787.0
+6,2: University,13870,6886.0
+6,1: Work,19149,30003.0
+6.5,9: Work-based,1260,254.0
+6.5,4: Escort,2210,1640.0
+6.5,6: Individual Discretionary,8048,4772.0
+6.5,5: Individual Maintenance,11199,3077.0
+6.5,8: Joint Discretionary,220,403.0
+6.5,7: Joint Maintenance,69,261.0
+6.5,3: School,4809,27343.0
+6.5,Total,52070,74229.0
+6.5,2: University,4739,6456.0
+6.5,1: Work,19512,30023.0
+7,9: Work-based,55,176.0
+7,4: Escort,942,1500.0
+7,6: Individual Discretionary,5669,3443.0
+7,5: Individual Maintenance,3558,2042.0
+7,8: Joint Discretionary,209,259.0
+7,7: Joint Maintenance,143,173.0
+7,3: School,14555,48121.0
+7,Total,56794,90749.0
+7,2: University,10599,5523.0
+7,1: Work,21062,29512.0
+7.5,9: Work-based,2403,117.0
+7.5,4: Escort,3997,1171.0
+7.5,6: Individual Discretionary,7677,2610.0
+7.5,5: Individual Maintenance,2906,2171.0
+7.5,8: Joint Discretionary,77,219.0
+7.5,7: Joint Maintenance,37,167.0
+7.5,3: School,34758,108467.0
+7.5,Total,84057,148946.0
+7.5,2: University,7374,4895.0
+7.5,1: Work,24822,29129.0
+8,9: Work-based,0,69.0
+8,4: Escort,6188,806.0
+8,6: Individual Discretionary,6792,2357.0
+8,5: Individual Maintenance,3413,2235.0
+8,8: Joint Discretionary,3,165.0
+8,7: Joint Maintenance,0,170.0
+8,3: School,35661,95478.0
+8,Total,82869,135936.0
+8,2: University,8796,4200.0
+8,1: Work,22012,30456.0
+8.5,9: Work-based,41,53.0
+8.5,4: Escort,1572,380.0
+8.5,6: Individual Discretionary,3322,2231.0
+8.5,5: Individual Maintenance,2005,2464.0
+8.5,8: Joint Discretionary,34,154.0
+8.5,7: Joint Maintenance,0,179.0
+8.5,3: School,25637,78826.0
+8.5,Total,64676,134345.0
+8.5,2: University,2198,3570.0
+8.5,1: Work,29864,46488.0
+9,9: Work-based,0,30.0
+9,4: Escort,1130,240.0
+9,6: Individual Discretionary,4852,1698.0
+9,5: Individual Maintenance,974,1986.0
+9,8: Joint Discretionary,0,105.0
+9,7: Joint Maintenance,0,156.0
+9,3: School,28113,39471.0
+9,Total,92594,125167.0
+9,2: University,5469,3126.0
+9,1: Work,52053,78355.0
+9.5,9: Work-based,0,11.0
+9.5,4: Escort,2100,128.0
+9.5,6: Individual Discretionary,2942,1556.0
+9.5,5: Individual Maintenance,1672,1644.0
+9.5,8: Joint Discretionary,162,106.0
+9.5,7: Joint Maintenance,0,132.0
+9.5,3: School,21447,29741.0
+9.5,Total,108815,161293.0
+9.5,2: University,5396,2709.0
+9.5,1: Work,75093,125266.0
+10,9: Work-based,6,7.0
+10,4: Escort,1326,91.0
+10,6: Individual Discretionary,2092,1546.0
+10,5: Individual Maintenance,2389,1351.0
+10,8: Joint Discretionary,0,101.0
+10,7: Joint Maintenance,0,115.0
+10,3: School,22619,30161.0
+10,Total,151837,185705.0
+10,2: University,1739,2191.0
+10,1: Work,121663,150142.0
+10.5,9: Work-based,0,4.0
+10.5,4: Escort,2788,64.0
+10.5,6: Individual Discretionary,4094,1330.0
+10.5,5: Individual Maintenance,526,959.0
+10.5,8: Joint Discretionary,0,81.0
+10.5,7: Joint Maintenance,0,99.0
+10.5,3: School,13370,25022.0
+10.5,Total,149725,154526.0
+10.5,2: University,8027,1830.0
+10.5,1: Work,120917,125137.0
+11,9: Work-based,0,0.0
+11,4: Escort,775,35.0
+11,6: Individual Discretionary,994,1249.0
+11,5: Individual Maintenance,962,852.0
+11,8: Joint Discretionary,0,72.0
+11,7: Joint Maintenance,0,72.0
+11,3: School,10642,14476.0
+11,Total,112160,113289.0
+11,2: University,2840,1532.0
+11,1: Work,95945,95001.0
+11.5,9: Work-based,13,0.0
+11.5,4: Escort,1803,23.0
+11.5,6: Individual Discretionary,1538,1127.0
+11.5,5: Individual Maintenance,617,649.0
+11.5,8: Joint Discretionary,611,65.0
+11.5,7: Joint Maintenance,27,59.0
+11.5,3: School,7792,5748.0
+11.5,Total,93844,74731.0
+11.5,2: University,3355,1261.0
+11.5,1: Work,78084,65799.0
+12,9: Work-based,0,1.0
+12,4: Escort,1796,18.0
+12,6: Individual Discretionary,1577,983.0
+12,5: Individual Maintenance,134,516.0
+12,8: Joint Discretionary,0,52.0
+12,7: Joint Maintenance,0,48.0
+12,3: School,11591,4122.0
+12,Total,66941,47698.0
+12,2: University,6764,1092.0
+12,1: Work,45077,40866.0
+12.5,9: Work-based,0,0.0
+12.5,4: Escort,597,10.0
+12.5,6: Individual Discretionary,1206,834.0
+12.5,5: Individual Maintenance,326,379.0
+12.5,8: Joint Discretionary,0,49.0
+12.5,7: Joint Maintenance,0,38.0
+12.5,3: School,9213,2962.0
+12.5,Total,50748,36711.0
+12.5,2: University,3856,940.0
+12.5,1: Work,35548,31499.0
+13,9: Work-based,0,0.0
+13,4: Escort,591,13.0
+13,6: Individual Discretionary,341,694.0
+13,5: Individual Maintenance,175,312.0
+13,8: Joint Discretionary,30,27.0
+13,7: Joint Maintenance,0,28.0
+13,3: School,3177,2017.0
+13,Total,29641,26266.0
+13,2: University,885,800.0
+13,1: Work,24438,22375.0
+13.5,9: Work-based,0,0.0
+13.5,4: Escort,1151,7.0
+13.5,6: Individual Discretionary,629,579.0
+13.5,5: Individual Maintenance,305,256.0
+13.5,8: Joint Discretionary,0,29.0
+13.5,7: Joint Maintenance,0,20.0
+13.5,3: School,3940,1262.0
+13.5,Total,41534,17021.0
+13.5,2: University,1609,748.0
+13.5,1: Work,33897,14120.0
+14,9: Work-based,0,1.0
+14,4: Escort,19,5.0
+14,6: Individual Discretionary,62,445.0
+14,5: Individual Maintenance,0,209.0
+14,8: Joint Discretionary,0,11.0
+14,7: Joint Maintenance,0,22.0
+14,3: School,6736,744.0
+14,Total,32413,11209.0
+14,2: University,2554,576.0
+14,1: Work,23041,9196.0
+14.5,9: Work-based,0,0.0
+14.5,4: Escort,52,2.0
+14.5,6: Individual Discretionary,59,341.0
+14.5,5: Individual Maintenance,0,154.0
+14.5,8: Joint Discretionary,0,15.0
+14.5,7: Joint Maintenance,0,10.0
+14.5,3: School,2379,491.0
+14.5,Total,13844,6733.0
+14.5,2: University,324,508.0
+14.5,1: Work,11028,5212.0
+15,9: Work-based,0,0.0
+15,4: Escort,11,1.0
+15,6: Individual Discretionary,56,226.0
+15,5: Individual Maintenance,1154,85.0
+15,8: Joint Discretionary,0,11.0
+15,7: Joint Maintenance,0,12.0
+15,3: School,377,375.0
+15,Total,13920,4008.0
+15,2: University,316,411.0
+15,1: Work,12004,2887.0
+15.5,9: Work-based,0,0.0
+15.5,4: Escort,0,2.0
+15.5,6: Individual Discretionary,457,168.0
+15.5,5: Individual Maintenance,1217,86.0
+15.5,8: Joint Discretionary,0,11.0
+15.5,7: Joint Maintenance,0,8.0
+15.5,3: School,2521,293.0
+15.5,Total,10343,2314.0
+15.5,2: University,3467,286.0
+15.5,1: Work,2678,1460.0
+16,9: Work-based,0,0.0
+16,4: Escort,0,2.0
+16,6: Individual Discretionary,21,144.0
+16,5: Individual Maintenance,0,48.0
+16,8: Joint Discretionary,0,6.0
+16,7: Joint Maintenance,0,2.0
+16,3: School,16,289.0
+16,Total,6955,1418.0
+16,2: University,1467,216.0
+16,1: Work,5449,711.0
+16.5,9: Work-based,0,0.0
+16.5,4: Escort,0,0.0
+16.5,6: Individual Discretionary,0,75.0
+16.5,5: Individual Maintenance,0,32.0
+16.5,8: Joint Discretionary,0,1.0
+16.5,7: Joint Maintenance,0,0.0
+16.5,3: School,0,250.0
+16.5,Total,1750,819.0
+16.5,2: University,0,165.0
+16.5,1: Work,1750,296.0
+17,9: Work-based,0,0.0
+17,4: Escort,120,0.0
+17,6: Individual Discretionary,11,39.0
+17,5: Individual Maintenance,0,14.0
+17,8: Joint Discretionary,0,1.0
+17,7: Joint Maintenance,0,0.0
+17,3: School,26,197.0
+17,Total,1835,440.0
+17,2: University,13,88.0
+17,1: Work,1664,101.0
+17.5,9: Work-based,0,0.0
+17.5,4: Escort,0,0.0
+17.5,6: Individual Discretionary,77,31.0
+17.5,5: Individual Maintenance,0,13.0
+17.5,8: Joint Discretionary,0,0.0
+17.5,7: Joint Maintenance,0,0.0
+17.5,3: School,17,113.0
+17.5,Total,1235,250.0
+17.5,2: University,520,66.0
+17.5,1: Work,618,27.0
+18,9: Work-based,0,0.0
+18,4: Escort,0,0.0
+18,6: Individual Discretionary,0,16.0
+18,5: Individual Maintenance,0,1.0
+18,8: Joint Discretionary,0,1.0
+18,7: Joint Maintenance,0,0.0
+18,3: School,0,44.0
+18,Total,204,84.0
+18,2: University,0,12.0
+18,1: Work,204,10.0
+18.5,9: Work-based,0,0.0
+18.5,4: Escort,0,0.0
+18.5,6: Individual Discretionary,6,8.0
+18.5,5: Individual Maintenance,0,3.0
+18.5,8: Joint Discretionary,0,0.0
+18.5,7: Joint Maintenance,0,0.0
+18.5,3: School,0,22.0
+18.5,Total,24,44.0
+18.5,2: University,0,8.0
+18.5,1: Work,17,3.0
+19,9: Work-based,0,0.0
+19,4: Escort,0,0.0
+19,6: Individual Discretionary,0,2.0
+19,5: Individual Maintenance,0,0.0
+19,8: Joint Discretionary,0,0.0
+19,7: Joint Maintenance,0,0.0
+19,3: School,0,24.0
+19,Total,0,33.0
+19,2: University,0,6.0
+19,1: Work,0,1.0
+19.5,9: Work-based,0,0.0
+19.5,4: Escort,0,0.0
+19.5,6: Individual Discretionary,0,2.0
+19.5,5: Individual Maintenance,0,1.0
+19.5,8: Joint Discretionary,0,0.0
+19.5,7: Joint Maintenance,0,0.0
+19.5,3: School,0,14.0
+19.5,Total,0,21.0
+19.5,2: University,0,4.0
+19.5,1: Work,0,0.0
+20,9: Work-based,0,0.0
+20,4: Escort,0,0.0
+20,6: Individual Discretionary,0,0.0
+20,5: Individual Maintenance,0,1.0
+20,8: Joint Discretionary,0,0.0
+20,7: Joint Maintenance,0,0.0
+20,3: School,0,6.0
+20,Total,0,7.0
+20,2: University,0,0.0
+20,1: Work,0,0.0

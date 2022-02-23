@@ -1,0 +1,28 @@
+PERTYPE,activity_pattern,survey_freq,model_freq
+1: Full-Time Worker,Home,117814.0584,80252.0
+1: Full-Time Worker,Mandatory,918201.0425,897029.0
+1: Full-Time Worker,Non-Mandatory,182827.5781,116428.0
+2: Part-Time Worker,Home,28982.28737,46529.0
+2: Part-Time Worker,Mandatory,121229.8369,193688.0
+2: Part-Time Worker,Non-Mandatory,66987.58735,112065.0
+3: University Student,Home,51730.08768,30214.0
+3: University Student,Mandatory,197921.5301,118469.0
+3: University Student,Non-Mandatory,55687.1524,36826.0
+4: Non-Worker,Home,134960.1956,123171.0
+4: Non-Worker,Mandatory,0.0,0.0
+4: Non-Worker,Non-Mandatory,253344.8849,343985.0
+5: Retiree,Home,127090.2639,108574.0
+5: Retiree,Mandatory,0.0,0.0
+5: Retiree,Non-Mandatory,193209.8522,263349.0
+6: Driving Aged Student,Home,25893.35912,5393.0
+6: Driving Aged Student,Mandatory,76807.00923,81648.0
+6: Driving Aged Student,Non-Mandatory,15047.75735,3931.0
+7: Non-Driving Aged Student,Home,65646.22678,8508.0
+7: Non-Driving Aged Student,Mandatory,279263.3393,444333.0
+7: Non-Driving Aged Student,Non-Mandatory,71242.30205,27967.0
+8: Child To Young for School,Home,42791.83702,54906.0
+8: Child To Young for School,Mandatory,45886.2491,59604.0
+8: Child To Young for School,Non-Mandatory,85086.49088,108619.0
+Total,Home,594908.3159,457547.0
+Total,Mandatory,1639309.007,1794771.0
+Total,Non-Mandatory,923433.6053,1013170.0

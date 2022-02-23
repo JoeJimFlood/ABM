@@ -1,0 +1,441 @@
+distbin,purpose,survey_freq,model_freq
+1,1: Work,73777.0,100181
+10,1: Work,14606.0,18662
+11,1: Work,17929.0,15273
+12,1: Work,15259.0,12949
+13,1: Work,11671.0,11637
+14,1: Work,7545.0,10561
+15,1: Work,5033.0,10347
+16,1: Work,7129.0,8744
+17,1: Work,6481.0,7681
+18,1: Work,5016.0,7413
+19,1: Work,3442.0,6522
+2,1: Work,467218.0,465993
+20,1: Work,5799.0,6058
+21,1: Work,3153.0,5490
+22,1: Work,2940.0,4905
+23,1: Work,3041.0,4318
+24,1: Work,3253.0,3991
+25,1: Work,2704.0,3566
+26,1: Work,3494.0,3384
+27,1: Work,1093.0,2944
+28,1: Work,2828.0,2819
+29,1: Work,2090.0,2720
+3,1: Work,183512.0,209399
+30,1: Work,1563.0,2449
+31,1: Work,1047.0,2035
+32,1: Work,733.0,1950
+33,1: Work,2009.0,1564
+34,1: Work,4882.0,1432
+35,1: Work,575.0,1376
+36,1: Work,3850.0,1157
+37,1: Work,1043.0,1090
+38,1: Work,108.0,1216
+39,1: Work,412.0,801
+4,1: Work,104804.0,117155
+40,1: Work,265.0,691
+41,1: Work,1056.0,671
+42,1: Work,7872.0,869
+5,1: Work,80712.0,79803
+6,1: Work,44207.0,60755
+7,1: Work,45635.0,40531
+8,1: Work,23846.0,30477
+9,1: Work,21622.0,23695
+1,2: University,11570.0,6225
+10,2: University,3328.0,1323
+11,2: University,1706.0,1156
+12,2: University,789.0,949
+13,2: University,351.0,956
+14,2: University,407.0,810
+15,2: University,2107.0,824
+16,2: University,178.0,662
+17,2: University,547.0,643
+18,2: University,780.0,620
+19,2: University,1608.0,514
+2,2: University,104527.0,32329
+20,2: University,52.0,474
+21,2: University,1358.0,421
+22,2: University,26.0,440
+23,2: University,29.0,314
+24,2: University,647.0,311
+25,2: University,346.0,267
+26,2: University,85.0,241
+27,2: University,332.0,246
+28,2: University,608.0,221
+29,2: University,174.0,165
+3,2: University,23079.0,12237
+30,2: University,70.0,176
+31,2: University,0.0,141
+32,2: University,430.0,149
+33,2: University,209.0,125
+34,2: University,10.0,108
+35,2: University,0.0,102
+36,2: University,0.0,80
+37,2: University,0.0,65
+38,2: University,0.0,61
+39,2: University,50.0,46
+4,2: University,14953.0,7004
+40,2: University,0.0,51
+41,2: University,0.0,39
+42,2: University,596.0,36
+5,2: University,8339.0,4761
+6,2: University,6767.0,3529
+7,2: University,2374.0,2568
+8,2: University,1607.0,2048
+9,2: University,3957.0,1666
+1,3: School,12624.0,16718
+10,3: School,7226.0,11196
+11,3: School,2966.0,10603
+12,3: School,4068.0,10045
+13,3: School,1121.0,9228
+14,3: School,1343.0,9100
+15,3: School,1110.0,8371
+16,3: School,1245.0,8203
+17,3: School,476.0,7377
+18,3: School,247.0,7015
+19,3: School,1235.0,6409
+2,3: School,162947.0,128114
+20,3: School,1545.0,6024
+21,3: School,111.0,5429
+22,3: School,806.0,5098
+23,3: School,175.0,4844
+24,3: School,104.0,4298
+25,3: School,129.0,4226
+26,3: School,89.0,3944
+27,3: School,89.0,3621
+28,3: School,264.0,3391
+29,3: School,73.0,3077
+3,3: School,49120.0,49747
+30,3: School,26.0,2912
+31,3: School,593.0,2595
+32,3: School,0.0,2319
+33,3: School,322.0,2273
+34,3: School,32.0,2123
+35,3: School,325.0,1954
+36,3: School,0.0,1709
+37,3: School,43.0,1487
+38,3: School,62.0,1495
+39,3: School,0.0,1270
+4,3: School,24505.0,32310
+40,3: School,54.0,1203
+41,3: School,0.0,1095
+42,3: School,1514.0,1041
+5,3: School,21741.0,25887
+6,3: School,13535.0,21229
+7,3: School,4184.0,16404
+8,3: School,5355.0,14287
+9,3: School,4965.0,12479
+1,4: Escort,18362.0,38317
+10,4: Escort,3057.0,19495
+11,4: Escort,2527.0,16099
+12,4: Escort,5180.0,13426
+13,4: Escort,4222.0,11323
+14,4: Escort,4221.0,9640
+15,4: Escort,672.0,8133
+16,4: Escort,746.0,6836
+17,4: Escort,202.0,5595
+18,4: Escort,94.0,4798
+19,4: Escort,1328.0,4208
+2,4: Escort,95440.0,264614
+20,4: Escort,1254.0,3453
+21,4: Escort,170.0,2884
+22,4: Escort,72.0,2525
+23,4: Escort,91.0,2130
+24,4: Escort,495.0,1847
+25,4: Escort,26.0,1629
+26,4: Escort,854.0,1413
+27,4: Escort,2032.0,1242
+28,4: Escort,663.0,1061
+29,4: Escort,83.0,898
+3,4: Escort,36223.0,110375
+30,4: Escort,61.0,793
+31,4: Escort,0.0,664
+32,4: Escort,823.0,604
+33,4: Escort,34.0,509
+34,4: Escort,64.0,445
+35,4: Escort,157.0,405
+36,4: Escort,32.0,374
+37,4: Escort,180.0,273
+38,4: Escort,55.0,230
+39,4: Escort,42.0,194
+4,4: Escort,31307.0,71556
+40,4: Escort,10.0,178
+41,4: Escort,0.0,150
+42,4: Escort,2727.0,141
+5,4: Escort,19144.0,53459
+6,4: Escort,16557.0,41895
+7,4: Escort,8467.0,33801
+8,4: Escort,4450.0,28059
+9,4: Escort,5008.0,23211
+1,5: Individual Maintenance,23144.0,33596
+10,5: Individual Maintenance,8045.0,16685
+11,5: Individual Maintenance,4896.0,14247
+12,5: Individual Maintenance,8692.0,12201
+13,5: Individual Maintenance,2961.0,10630
+14,5: Individual Maintenance,4398.0,9257
+15,5: Individual Maintenance,2600.0,8204
+16,5: Individual Maintenance,538.0,6843
+17,5: Individual Maintenance,1482.0,5786
+18,5: Individual Maintenance,2447.0,5012
+19,5: Individual Maintenance,510.0,4352
+2,5: Individual Maintenance,248791.0,308839
+20,5: Individual Maintenance,1689.0,3714
+21,5: Individual Maintenance,1207.0,3021
+22,5: Individual Maintenance,218.0,2729
+23,5: Individual Maintenance,176.0,2525
+24,5: Individual Maintenance,365.0,2158
+25,5: Individual Maintenance,486.0,1847
+26,5: Individual Maintenance,858.0,1693
+27,5: Individual Maintenance,110.0,1454
+28,5: Individual Maintenance,161.0,1262
+29,5: Individual Maintenance,3988.0,1179
+3,5: Individual Maintenance,85810.0,95173
+30,5: Individual Maintenance,319.0,1007
+31,5: Individual Maintenance,107.0,851
+32,5: Individual Maintenance,12.0,813
+33,5: Individual Maintenance,222.0,692
+34,5: Individual Maintenance,143.0,598
+35,5: Individual Maintenance,96.0,533
+36,5: Individual Maintenance,16.0,480
+37,5: Individual Maintenance,0.0,427
+38,5: Individual Maintenance,15.0,348
+39,5: Individual Maintenance,38.0,318
+4,5: Individual Maintenance,45790.0,57079
+40,5: Individual Maintenance,49.0,299
+41,5: Individual Maintenance,16.0,227
+42,5: Individual Maintenance,1630.0,218
+5,5: Individual Maintenance,28781.0,41943
+6,5: Individual Maintenance,13728.0,32966
+7,5: Individual Maintenance,13307.0,27363
+8,5: Individual Maintenance,10988.0,23024
+9,5: Individual Maintenance,6182.0,19781
+1,6: Individual Discretionary,20771.0,24476
+10,6: Individual Discretionary,5949.0,11211
+11,6: Individual Discretionary,11356.0,9043
+12,6: Individual Discretionary,4440.0,7487
+13,6: Individual Discretionary,4462.0,6397
+14,6: Individual Discretionary,2208.0,5481
+15,6: Individual Discretionary,1954.0,4437
+16,6: Individual Discretionary,3496.0,3678
+17,6: Individual Discretionary,1554.0,3119
+18,6: Individual Discretionary,840.0,2616
+19,6: Individual Discretionary,4411.0,2177
+2,6: Individual Discretionary,216224.0,205841
+20,6: Individual Discretionary,1493.0,1897
+21,6: Individual Discretionary,4356.0,1671
+22,6: Individual Discretionary,298.0,1460
+23,6: Individual Discretionary,940.0,1205
+24,6: Individual Discretionary,410.0,1057
+25,6: Individual Discretionary,587.0,890
+26,6: Individual Discretionary,727.0,831
+27,6: Individual Discretionary,485.0,712
+28,6: Individual Discretionary,554.0,623
+29,6: Individual Discretionary,517.0,547
+3,6: Individual Discretionary,71787.0,73830
+30,6: Individual Discretionary,153.0,496
+31,6: Individual Discretionary,11.0,421
+32,6: Individual Discretionary,123.0,358
+33,6: Individual Discretionary,82.0,310
+34,6: Individual Discretionary,1115.0,276
+35,6: Individual Discretionary,33.0,269
+36,6: Individual Discretionary,143.0,204
+37,6: Individual Discretionary,363.0,197
+38,6: Individual Discretionary,167.0,200
+39,6: Individual Discretionary,350.0,140
+4,6: Individual Discretionary,37967.0,43854
+40,6: Individual Discretionary,574.0,126
+41,6: Individual Discretionary,31.0,146
+42,6: Individual Discretionary,1297.0,96
+5,6: Individual Discretionary,27849.0,31415
+6,6: Individual Discretionary,24322.0,24356
+7,6: Individual Discretionary,15286.0,19426
+8,6: Individual Discretionary,10039.0,15704
+9,6: Individual Discretionary,6640.0,13344
+1,7: Joint Maintenance,4050.0,5547
+10,7: Joint Maintenance,81.0,2410
+11,7: Joint Maintenance,26.0,2095
+12,7: Joint Maintenance,405.0,1818
+13,7: Joint Maintenance,430.0,1638
+14,7: Joint Maintenance,106.0,1426
+15,7: Joint Maintenance,598.0,1228
+16,7: Joint Maintenance,14.0,1069
+17,7: Joint Maintenance,705.0,942
+18,7: Joint Maintenance,0.0,809
+19,7: Joint Maintenance,27.0,671
+2,7: Joint Maintenance,19955.0,41005
+20,7: Joint Maintenance,10.0,623
+21,7: Joint Maintenance,3.0,557
+22,7: Joint Maintenance,0.0,471
+23,7: Joint Maintenance,0.0,445
+24,7: Joint Maintenance,78.0,382
+25,7: Joint Maintenance,0.0,346
+26,7: Joint Maintenance,0.0,327
+27,7: Joint Maintenance,13.0,270
+28,7: Joint Maintenance,0.0,236
+29,7: Joint Maintenance,0.0,207
+3,7: Joint Maintenance,4902.0,13231
+30,7: Joint Maintenance,0.0,200
+31,7: Joint Maintenance,0.0,185
+32,7: Joint Maintenance,0.0,170
+33,7: Joint Maintenance,0.0,141
+34,7: Joint Maintenance,16.0,120
+35,7: Joint Maintenance,0.0,120
+36,7: Joint Maintenance,0.0,99
+37,7: Joint Maintenance,0.0,96
+38,7: Joint Maintenance,0.0,77
+39,7: Joint Maintenance,0.0,66
+4,7: Joint Maintenance,4417.0,7979
+40,7: Joint Maintenance,0.0,63
+41,7: Joint Maintenance,0.0,51
+42,7: Joint Maintenance,0.0,46
+5,7: Joint Maintenance,1549.0,5790
+6,7: Joint Maintenance,2056.0,4653
+7,7: Joint Maintenance,1010.0,3728
+8,7: Joint Maintenance,296.0,3222
+9,7: Joint Maintenance,295.0,2853
+1,8: Joint Discretionary,1422.0,3764
+10,8: Joint Discretionary,2108.0,1787
+11,8: Joint Discretionary,287.0,1401
+12,8: Joint Discretionary,437.0,1239
+13,8: Joint Discretionary,541.0,1052
+14,8: Joint Discretionary,24.0,850
+15,8: Joint Discretionary,21.0,735
+16,8: Joint Discretionary,0.0,658
+17,8: Joint Discretionary,248.0,604
+18,8: Joint Discretionary,13.0,470
+19,8: Joint Discretionary,16.0,457
+2,8: Joint Discretionary,20969.0,28961
+20,8: Joint Discretionary,0.0,331
+21,8: Joint Discretionary,26.0,298
+22,8: Joint Discretionary,62.0,264
+23,8: Joint Discretionary,0.0,230
+24,8: Joint Discretionary,0.0,203
+25,8: Joint Discretionary,78.0,171
+26,8: Joint Discretionary,62.0,175
+27,8: Joint Discretionary,27.0,144
+28,8: Joint Discretionary,22.0,114
+29,8: Joint Discretionary,108.0,106
+3,8: Joint Discretionary,5777.0,10383
+30,8: Joint Discretionary,0.0,109
+31,8: Joint Discretionary,90.0,82
+32,8: Joint Discretionary,0.0,87
+33,8: Joint Discretionary,0.0,61
+34,8: Joint Discretionary,0.0,56
+35,8: Joint Discretionary,0.0,55
+36,8: Joint Discretionary,0.0,51
+37,8: Joint Discretionary,65.0,33
+38,8: Joint Discretionary,0.0,39
+39,8: Joint Discretionary,0.0,35
+4,8: Joint Discretionary,1496.0,6237
+40,8: Joint Discretionary,0.0,28
+41,8: Joint Discretionary,0.0,23
+42,8: Joint Discretionary,0.0,22
+5,8: Joint Discretionary,3284.0,4440
+6,8: Joint Discretionary,1458.0,3499
+7,8: Joint Discretionary,446.0,2822
+8,8: Joint Discretionary,854.0,2306
+9,8: Joint Discretionary,375.0,1935
+1,9: Work-based,4434.0,807
+10,9: Work-based,1534.0,509
+11,9: Work-based,174.0,439
+12,9: Work-based,697.0,413
+13,9: Work-based,752.0,402
+14,9: Work-based,903.0,366
+15,9: Work-based,36.0,332
+16,9: Work-based,179.0,297
+17,9: Work-based,109.0,278
+18,9: Work-based,828.0,254
+19,9: Work-based,21.0,251
+2,9: Work-based,186892.0,13937
+20,9: Work-based,253.0,208
+21,9: Work-based,0.0,186
+22,9: Work-based,12.0,206
+23,9: Work-based,653.0,172
+24,9: Work-based,17.0,169
+25,9: Work-based,0.0,174
+26,9: Work-based,4.0,142
+27,9: Work-based,0.0,147
+28,9: Work-based,15.0,143
+29,9: Work-based,0.0,119
+3,9: Work-based,9578.0,2837
+30,9: Work-based,0.0,106
+31,9: Work-based,0.0,127
+32,9: Work-based,0.0,103
+33,9: Work-based,0.0,99
+34,9: Work-based,8.0,82
+35,9: Work-based,0.0,87
+36,9: Work-based,267.0,73
+37,9: Work-based,0.0,76
+38,9: Work-based,0.0,78
+39,9: Work-based,0.0,66
+4,9: Work-based,7880.0,1552
+40,9: Work-based,0.0,61
+41,9: Work-based,0.0,70
+42,9: Work-based,1655.0,62
+5,9: Work-based,2127.0,1156
+6,9: Work-based,6963.0,1013
+7,9: Work-based,1091.0,775
+8,9: Work-based,618.0,648
+9,9: Work-based,203.0,521
+1,Total,170156.0,229631
+10,Total,45938.0,83278
+11,Total,41871.0,70356
+12,Total,39972.0,60527
+13,Total,26514.0,53263
+14,Total,21159.0,47491
+15,Total,14134.0,42611
+16,Total,13530.0,36990
+17,Total,11808.0,32025
+18,Total,10268.0,29007
+19,Total,12601.0,25561
+2,Total,1522968.0,1489633
+20,Total,12099.0,22782
+21,Total,10388.0,19957
+22,Total,4438.0,18098
+23,Total,5108.0,16183
+24,Total,5372.0,14416
+25,Total,4359.0,13116
+26,Total,6176.0,12150
+27,Total,4183.0,10780
+28,Total,5118.0,9870
+29,Total,7036.0,9018
+3,Total,469792.0,577212
+30,Total,2195.0,8248
+31,Total,1851.0,7101
+32,Total,2123.0,6553
+33,Total,2880.0,5774
+34,Total,6273.0,5240
+35,Total,1189.0,4901
+36,Total,4310.0,4227
+37,Total,1696.0,3744
+38,Total,409.0,3744
+39,Total,893.0,2936
+4,Total,273122.0,344726
+40,Total,954.0,2700
+41,Total,1104.0,2472
+42,Total,17295.0,2531
+5,Total,193530.0,248654
+6,Total,129596.0,193895
+7,Total,91803.0,147418
+8,Total,58057.0,119775
+9,Total,49249.0,99485
+43,1: Work,0.0,652
+43,2: University,0.0,32
+43,3: School,0.0,882
+43,4: Escort,0.0,129
+43,5: Individual Maintenance,0.0,180
+43,6: Individual Discretionary,0.0,113
+43,7: Joint Maintenance,0.0,34
+43,8: Joint Discretionary,0.0,22
+43,9: Work-based,0.0,44
+100000,1: Work,0.0,4629
+100000,2: University,0.0,226
+100000,3: School,0.0,8834
+100000,4: Escort,0.0,952
+100000,5: Individual Maintenance,0.0,1421
+100000,6: Individual Discretionary,0.0,932
+100000,7: Joint Maintenance,0.0,349
+100000,8: Joint Discretionary,0.0,208
+100000,9: Work-based,0.0,868
+43,Total,0.0,2088
+100000,Total,0.0,18419

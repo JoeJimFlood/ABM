@@ -7,7 +7,7 @@
 
 # Specify data to extract and load
 extract:
-    - filepath: "T:/ABM/ABM_FY19/model_runs/ABM2Plus/v1221/2016_1422new_sxu/output"
+    - filepath: "[MODEL_RUN]/output"
       test_size: #10000
       data:
           - "householdData_3.csv"
@@ -21,11 +21,11 @@ extract:
           - "aoResults_Pre.csv"
           - "visitorTrips.csv"
           - "traffic_skims_MD.omx"
-    - filepath: "T:/ABM/ABM_FY19/model_runs/ABM2Plus/v1221/2016_1422new_sxu/input"
+    - filepath: "[MODEL_RUN]/input"
       test_size: #10000
       data:
           - "mgra13_based_input2016.csv"
-    - filepath: "T:/ABM/ABM_FY19/model_runs/ABM2Plus/v1221/2016_1422new_sxu/visualizer/data"
+    - filepath: "[MODEL_RUN]/visualizer/data"
       test_size: #10000
       data:
           - "geographicXwalk_PMSA.csv"
